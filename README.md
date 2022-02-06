@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm trickyXD</h1>
 
 <!--
 **tricky-xd/tricky-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tricky-xd&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tricky-xd&theme=radical)
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tricky-xd&show_icons=true&locale=en&layout=compact&theme=radical" alt="tricky-xd" /></p>
