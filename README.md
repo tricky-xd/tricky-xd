@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tricky-xd&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tricky-xd&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tricky-xd&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tricky-xd&show_icons=true&locale=en&layout=compact&theme=radical" alt="tricky-xd" /></p>
