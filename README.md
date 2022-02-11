@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tricky-xd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="tricky-xd" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tricky-xd&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="tricky-xd" />
- <a href="https://wakatime.com/@trickyxd"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=trickyxd&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="trickyxd" /> </a>
-</p>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tricky-xd&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tricky-xd&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tricky-xd&show_icons=true&locale=en&layout=compact&theme=radical)
